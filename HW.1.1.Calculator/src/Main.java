@@ -4,7 +4,7 @@ public class Main {
         Calculator calc = Calculator.instance.get();
         int a = calc.plus.apply(1, 2);
         int b = calc.minus.apply(1, 1);
-        System.out.println(a + " " + b);
+        /* Необходима проверка на b == 0, так как может возникнуть ошибка деления на 0*/
         int c = calc.devide.apply(a, b);
         calc.println.accept(c);
     }
