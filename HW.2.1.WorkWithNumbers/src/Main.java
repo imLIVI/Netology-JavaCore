@@ -15,6 +15,5 @@ public class Main {
                 .filter(num -> num % 2 == 0)
                 .sorted(Comparator.naturalOrder())
                 .forEach(System.out::println);
-
     }
 }
