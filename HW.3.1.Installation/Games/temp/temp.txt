@@ -1,0 +1,12 @@
+Games\src                     successfully created
+Games\res                     successfully created
+Games\savegames               successfully created
+Games\temp                    successfully created
+Games\src\main                successfully created
+Games\src\test                successfully created
+Games\src\main\Main.java      successfully created
+Games\src\main\Utils.java     successfully created
+Games\res\drawables           successfully created
+Games\res\vectors             successfully created
+Games\res\icons               successfully created
+Games\temp\temp.txt           successfully created
