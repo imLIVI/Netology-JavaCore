@@ -48,6 +48,5 @@ public class Main {
                         + person.getAge() + ", "
                         + person.getEducation())
                 .forEach(System.out::println);
-
     }
 }
