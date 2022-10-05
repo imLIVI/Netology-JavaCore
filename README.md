@@ -60,3 +60,18 @@ Thus, to complete the task, you will need to do the following steps:
 1. Unpack the archive in the savegames folder.
 2. Read and deserialize one of the unzipped save.dat files.
 3. Output the saved game status to the console.
+
+# 4. Maven & Gradle
+## 4.1 Multi-moduleMaven
+### Description
+In this task, you need to build a project consisting of modules using Maven:
+1. db - a database module;
+2. api - module for working with the web;
+3. service - service layer.
+
+## 4.2 Multi-moduleGradle
+### Description
+In this task, you need to build a project consisting of modules using Gradle:
+1. db - a database module;
+2. api - module for working with the web;
+3. service - service layer.
