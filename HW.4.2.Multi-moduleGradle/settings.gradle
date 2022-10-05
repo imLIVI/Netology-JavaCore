@@ -1,0 +1,4 @@
+rootProject.name = 'HW.4.2.Multi-moduleGradle'
+include 'db'
+include 'service'
+include 'api'
