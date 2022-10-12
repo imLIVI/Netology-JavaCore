@@ -1,5 +1,9 @@
 [submodule "Parsers-CSV-XML-JSON"]
 	path = HW.5.CSV-XML-JSON-parser
 	url = https://github.com/imLIVI/Parsers-CSV-XML-JSON.git
-[submodule "HW.6.1.UsingJUnit"]                                                                                              path = HW.6.1.UsingJUnit
-     url = https://github.com/imLIVI/UsingJUnit.git
+[submodule "HW.6.1.UsingJUnit"]
+	path = HW.6.1.UsingJUnit
+	url = https://github.com/imLIVI/UsingJUnit.git
+[submodule "HW.6.2.JUnit+Hamcrest"]
+	path = HW.6.2.JUnit+Hamcrest
+	url = https://github.com/imLIVI/JUnit-Hamcrest.git
