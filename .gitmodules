@@ -7,3 +7,6 @@
 [submodule "HW.6.2.JUnit+Hamcrest"]
 	path = HW.6.2.JUnit+Hamcrest
 	url = https://github.com/imLIVI/JUnit-Hamcrest.git
+[submodule "HW.7.1.TestingMessageService-Mockito"] 
+	path = HW.7.1.TestingMessageService-Mockito
+	url = https://github.com/imLIVI/geo-service.git
