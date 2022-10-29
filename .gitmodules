@@ -10,3 +10,6 @@
 [submodule "HW.7.1.TestingMessageService-Mockito"] 
 	path = HW.7.1.TestingMessageService-Mockito/geo-service
 	url = https://github.com/imLIVI/geo-service.git
+[submodule "HW.7.2.TestingHealthcareService-Mockito"]
+	path = HW.7.2.TestingHealthcareService-Mockito/healthcare-service
+	url = https://github.com/imLIVI/healthcare-service.git 
