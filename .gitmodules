@@ -13,3 +13,6 @@
 [submodule "HW.7.2.TestingHealthcareService-Mockito"]
 	path = HW.7.2.TestingHealthcareService-Mockito/healthcare-service
 	url = https://github.com/imLIVI/healthcare-service.git 
+[submodule "HW.8.1.Client-ServerApp"]
+	path = HW.8.1.Client-ServerApp
+	url = https://github.com/imLIVI/ClientServerApp-OSI.git
