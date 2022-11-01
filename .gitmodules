@@ -16,3 +16,7 @@
 [submodule "HW.8.1.Client-ServerApp"]
 	path = HW.8.1.Client-ServerApp
 	url = https://github.com/imLIVI/ClientServerApp-OSI.git
+[submodule "HW.8.2.Client-ServerApp_v2"]
+	path = HW.8.2.Client-ServerApp_v2
+	url = https://github.com/imLIVI/ClientServerApp--OSI-.git
+
