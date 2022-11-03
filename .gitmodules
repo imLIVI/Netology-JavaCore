@@ -19,4 +19,10 @@
 [submodule "HW.8.2.Client-ServerApp_v2"]
 	path = HW.8.2.Client-ServerApp_v2
 	url = https://github.com/imLIVI/ClientServerApp--OSI-.git
+[submodule "HW.9.1.RequestForListOfCats-HTTP"]
+	path = HW.9.1.RequestForListOfCats-HTTP
+	url = https://github.com/imLIVI/RequestForListOfCats-HTTP.git
+[submodule "HW.9.2.ReadDataAPI_NASA"]
+	path = HW.9.2.ReadDataAPI_NASA
+	url = https://github.com/imLIVI/ReadDataAPI_NASA-HTTP.git
 
