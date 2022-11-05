@@ -25,4 +25,7 @@
 [submodule "HW.9.2.ReadDataAPI_NASA"]
 	path = HW.9.2.ReadDataAPI_NASA
 	url = https://github.com/imLIVI/ReadDataAPI_NASA-HTTP.git
+[submodule "HW.10.1.UnderstandingJVM"]
+	path = HW.10.1.UnderstandingJVM
+	url = https://github.com/imLIVI/UnderstandingJVM.git
 
