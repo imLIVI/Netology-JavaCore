@@ -28,4 +28,7 @@
 [submodule "HW.10.1.UnderstandingJVM"]
 	path = HW.10.1.UnderstandingJVM
 	url = https://github.com/imLIVI/UnderstandingJVM.git
+[submodule "HW.10.2.ExploringJVMviaVisualVM"]
+	path = HW.10.2.ExploringJVMviaVisualVM
+	url = https://github.com/imLIVI/ExploringJVMviaVisualVM.git
 
